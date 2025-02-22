@@ -1,0 +1,24 @@
+Installation Complete
+
+Congratulations! You have successfully installed NavicoreX.
+
+Please review the following information to get started:
+
+Launch the Application:
+
+You can start NavicoreX from the desktop shortcut or the Start menu.
+User Guide:
+
+For a detailed user guide and tips on using NavicoreX, visit https://github.com/headlessripper/NavicoreX or access the "Help" section within the application.
+Account Setup:
+
+If required, set up your account by following the prompts on the first launch.
+Ensure you have your activation key ready if the software requires activation.
+Updates:
+
+Keep your software up to date to enjoy the latest features and security improvements.
+Visit https://github.com/headlessripper/NavicoreX/releases for the latest updates and patches.
+Support:
+
+For technical assistance, visit https://github.com/headlessripper/NavicoreX or contact our support team at noreplypassguardx@gmail.com.
+Thank you for installing NavicoreX! We hope you enjoy using it.

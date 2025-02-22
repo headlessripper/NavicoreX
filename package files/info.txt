@@ -1,0 +1,28 @@
+Installation Information
+
+Welcome to the installation of NavicoreX
+
+Please read the following important information before proceeding with the installation:
+
+System Requirements:
+
+Operating System: Windows 10/11
+Minimum RAM: 2 GB
+Free Disk Space: 250 MB
+Installation Instructions:
+
+Close all other applications before starting the installation.
+Follow the on-screen instructions carefully.
+If prompted, allow administrative permissions to complete the installation.
+Important Notes:
+
+This software requires an active internet connection for activation.
+Ensure your antivirus software is temporarily disabled during installation to prevent conflicts.
+Review the End User License Agreement (EULA) before continuing.
+Support:
+
+For technical support, please visit our website at https://github.com/headlessripper/NavicoreX.
+Contact our support team at noreplypassguardx@gmail.com if you encounter any issues.
+By clicking "Next," you agree to the terms and conditions of the End User License Agreement.
+
+Thank you for choosing NavicoreX

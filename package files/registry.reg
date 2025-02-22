@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Zashirion\NavicoreX]
+"AppName"="NavicoreX.exe"
+"Version"="1.0.0"
+"InstallPath"="C:\\Program Files\\Zashirion\\NavicoreX"
